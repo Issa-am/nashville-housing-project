@@ -1,5 +1,5 @@
--- 
--- changing saleprice datatype to varchar 
+-- changing saleprice datatype to varchar
+-- Skills I have used are msotly including Joins, CTE's, Temp Tables, creating views, windows Function, Aggregate Functions, converting data types and etc.
 
 alter table nashvillehousing
 alter column saleprice type varchar(100)
